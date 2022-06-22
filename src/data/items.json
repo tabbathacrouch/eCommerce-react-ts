@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Burger",
+        "price": 10.99,
+        "imgURL": "/imgs/burger.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Empanadas",
+        "price": 5.99,
+        "imgURL": "/imgs/empanadas.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Limes",
+        "price": 0.33,
+        "imgURL": "/imgs/limes.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pizza",
+        "price": 6.99,
+        "imgURL": "/imgs/pizza.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Carrots",
+        "price": 1.99,
+        "imgURL": "/imgs/carrots.jpg"
+    }
+]
