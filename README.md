@@ -1,1 +1,3 @@
-# vite-restaurant
+# eCommerce-react-ts
+
+## Restaurant Template
